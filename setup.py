@@ -17,7 +17,7 @@ setup(
     version=basecash.__version__,
     license='BSD',
     author='Ruud de Jong',
-    description='Basic home expense and budgetting tool',
+    description='Basic home expense and budgeting tool',
     long_description=long_description,
     packages=['basecash'],
     classifiers=[
